@@ -1087,3 +1087,8 @@ rm -rf docs
 ls
 git add https://github.com/mujahid45/kubernetes.git
 git init
+git add .
+git commt -m "jak"
+git commit -m "jak"
+git push https://github.com/mujahid45/kubernetes.git
+git remote add origin remote https://github.com/mujahid45/kubernetes.git
